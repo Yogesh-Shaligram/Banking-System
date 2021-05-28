@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sleepingpandaaa.bankingsystem">
+    package="com.yogesh.bankingsystem">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme_white">
 
-        <activity android:name=".splash_screen"
+        <activity android:name="com.yogesh.bankingsystem.splash_screen"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -20,30 +20,30 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".MainActivity"
+        <activity android:name="com.yogesh.bankingsystem.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
 
-        <activity android:name=".Userlist"
+        <activity android:name="com.yogesh.bankingsystem.Userlist"
             android:screenOrientation="portrait"
             android:label="Banking System"
             android:theme="@style/AppTheme">
         </activity>
 
-        <activity android:name=".Userdata"
-            android:parentActivityName=".Userlist"
+        <activity android:name="com.yogesh.bankingsystem.Userdata"
+            android:parentActivityName="com.yogesh.bankingsystem.Userlist"
             android:screenOrientation="portrait"
             android:label="User Details"
             android:theme="@style/AppTheme"/>
 
-        <activity android:name=".SendToUser"
+        <activity android:name="com.yogesh.bankingsystem.SendToUser"
             android:screenOrientation="portrait"
             android:label="Transfer Money"
             android:theme="@style/AppTheme"/>
 
-        <activity android:name=".HistoryList"
-            android:parentActivityName=".Userlist"
+        <activity android:name="com.yogesh.bankingsystem.HistoryList"
+            android:parentActivityName="com.yogesh.bankingsystem.Userlist"
             android:screenOrientation="portrait"
             android:label="Transactions"
             android:theme="@style/AppTheme"/>

@@ -1,4 +1,4 @@
-package com.sleepingpandaaa.bankingsystem;
+package com.yogesh.bankingsystem;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -14,13 +14,13 @@ import java.util.List;
 
 public class CustomeAdapterHistory extends RecyclerView.Adapter<ViewHolder> {
 
-    com.sleepingpandaaa.bankingsystem.HistoryList HistoryList;
+    com.yogesh.bankingsystem.HistoryList HistoryList;
     List<Model> modelList;
     Context context;
 
     TextView mTransc_status;
 
-    public CustomeAdapterHistory(com.sleepingpandaaa.bankingsystem.HistoryList historyList, List<Model> modelList) {
+    public CustomeAdapterHistory(com.yogesh.bankingsystem.HistoryList historyList, List<Model> modelList) {
         this.HistoryList = historyList;
         this.modelList = modelList;
     }

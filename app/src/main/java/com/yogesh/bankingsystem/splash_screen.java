@@ -1,4 +1,4 @@
-package com.sleepingpandaaa.bankingsystem;
+package com.yogesh.bankingsystem;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -44,8 +44,8 @@ public class splash_screen extends Activity {
     }
 
     private void startEnterAnimation() {
-        app_name.startAnimation(AnimationUtils.loadAnimation(com.sleepingpandaaa.bankingsystem.splash_screen.this, R.anim.bottom));
-        logo.startAnimation(AnimationUtils.loadAnimation(com.sleepingpandaaa.bankingsystem.splash_screen.this, R.anim.p_in));
+        app_name.startAnimation(AnimationUtils.loadAnimation(com.yogesh.bankingsystem.splash_screen.this, R.anim.bottom));
+        logo.startAnimation(AnimationUtils.loadAnimation(com.yogesh.bankingsystem.splash_screen.this, R.anim.p_in));
 
         logo.setVisibility(View.VISIBLE);
         designed.setVisibility(View.VISIBLE);

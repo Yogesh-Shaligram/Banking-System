@@ -1,4 +1,4 @@
-package com.sleepingpandaaa.bankingsystem;
+package com.yogesh.bankingsystem;
 
 import android.database.Cursor;
 import android.os.Bundle;
@@ -38,7 +38,7 @@ public class HistoryList extends AppCompatActivity {
 
     private void showData() {
         modelList_historylist.clear();
-        Cursor cursor = new com.sleepingpandaaa.bankingsystem.DatabaseHelper(this).readtransferdata();
+        Cursor cursor = new com.yogesh.bankingsystem.DatabaseHelper(this).readtransferdata();
 
         while (cursor.moveToNext()) {
             String balancefromdb = cursor.getString(4);

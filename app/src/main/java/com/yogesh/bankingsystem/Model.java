@@ -1,4 +1,4 @@
-package com.sleepingpandaaa.bankingsystem;
+package com.yogesh.bankingsystem;
 
 public class Model {
     String phoneno, name, balance, name1, name2, date, transaction_status;

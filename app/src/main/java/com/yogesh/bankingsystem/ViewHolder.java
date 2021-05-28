@@ -1,4 +1,4 @@
-package com.sleepingpandaaa.bankingsystem;
+package com.yogesh.bankingsystem;
 
 import android.view.View;
 import android.widget.ImageView;
@@ -37,12 +37,12 @@ public class ViewHolder extends RecyclerView.ViewHolder {
         });
 
     }
-    private com.sleepingpandaaa.bankingsystem.ViewHolder.ClickListener mClickListener;
+    private com.yogesh.bankingsystem.ViewHolder.ClickListener mClickListener;
     public interface  ClickListener{
         void onItemClick(View view, int position);
     }
 
-    public void setOnClickListener(com.sleepingpandaaa.bankingsystem.ViewHolder.ClickListener clickListener){
+    public void setOnClickListener(com.yogesh.bankingsystem.ViewHolder.ClickListener clickListener){
        mClickListener = clickListener;
     }
 }
