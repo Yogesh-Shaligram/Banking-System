@@ -8,10 +8,4 @@
 <img src="https://user-images.githubusercontent.com/43718012/141608412-79d346f4-8955-4cb1-9aaf-3705ab63da78.jpg" width="300">
 <h2>Transaction List</h2>
 <img src="https://user-images.githubusercontent.com/43718012/141608415-c7cbf2c9-0f21-44e5-883a-6d66bb2bb43d.jpg" width="300">
-<h2>Features</h2>
-- [x] An onboarding screen to enter details such as name and Traction amount.
-- [x] Tranction List with Sucess status
-- [ ] das 
-- [x] An onboarding screen to enter details such as name and budget.
-- [x] Home Screen displays net balance with mode based segregation.
-- [x] Home Screen displays upcoming transactions.
+
