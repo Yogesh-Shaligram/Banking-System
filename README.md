@@ -1,7 +1,6 @@
 # Banking-System!
 
-<img src="https://user-images.githubusercontent.com/43718012/141608418-0ac17e23-30e5-49bb-af84-c24e914af8f4.jpg" width="300">
-<img src="https://user-images.githubusercontent.com/43718012/141608473-94879c95-807b-4112-a30c-9ea00ddba1ae.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/43718012/141608418-0ac17e23-30e5-49bb-af84-c24e914af8f4.jpg" width="300"> <img src="https://user-images.githubusercontent.com/43718012/141608473-94879c95-807b-4112-a30c-9ea00ddba1ae.jpg" width="300">
 <h2>User List</h2>
 <img src="https://user-images.githubusercontent.com/43718012/141608395-50b50eb9-62c7-4508-a860-a4d144d7b311.jpg" width="300">
 <h2>Profile</h2>
