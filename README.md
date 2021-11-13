@@ -12,3 +12,6 @@
 - [x] An onboarding screen to enter details such as name and Traction amount.
 - [x] Tranction List with Sucess status
 - [ ] das 
+- [x] An onboarding screen to enter details such as name and budget.
+- [x] Home Screen displays net balance with mode based segregation.
+- [x] Home Screen displays upcoming transactions.
