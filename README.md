@@ -9,4 +9,5 @@
 <h2>Transaction List</h2>
 <img src="https://user-images.githubusercontent.com/43718012/141608415-c7cbf2c9-0f21-44e5-883a-6d66bb2bb43d.jpg" width="300">
 <h2>Features</h2>
-* Heeee
+* An onboarding screen to enter details such as name and Tranction amount.
+* Home Screen displays all transactions.
