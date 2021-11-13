@@ -11,3 +11,4 @@
 <h2>Features</h2>
 - [x] An onboarding screen to enter details such as name and Traction amount.
 - [x] Tranction List with Sucess status
+- [ ] das 
